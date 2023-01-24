@@ -1,5 +1,4 @@
 
---------------------------
 on:
   # Trigger analysis when pushing in master or pull requests, and when creating
   # a pull request. 
@@ -26,5 +25,3 @@ jobs:
         host: http://ip10-0-194-6-cf7rbb3kgm20151k25vg-9000.direct.lab-boris.fr/
         login: 66874e10c361de0d67352ed623078cd337a2fee6
         projectKey: "projecttest"
-
-------------------------------
